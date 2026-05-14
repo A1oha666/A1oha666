@@ -4,6 +4,8 @@
 
 `🎓 NJUPT CS Student · 💻 Backend → Learning iOS & AI Fullstack`
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -29,4 +31,3 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F00?style=flat&logo=claw&logoColor=white)
 
 ---
-</div>
