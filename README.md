@@ -16,6 +16,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=flat&logo=go&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -27,7 +28,7 @@
 ![UIKit](https://img.shields.io/badge/UIKit-2863D5?style=flat&logo=apple&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-5B4BE1?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F00?style=flat&logo=claw&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-FF6F00?style=flat&logo=hermes&logoColor=white)
 
 
 </div>
